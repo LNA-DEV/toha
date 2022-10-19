@@ -1,4 +1,4 @@
-module github.com/hugo-toha/toha
+module github.com/lna-dev/toha
 
 go 1.12
 
